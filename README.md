@@ -1,5 +1,7 @@
 # skull_stripping
 
+![Skull_stripping](https://github.com/JinqianPan/skull_stripping/blob/main/img/skull_stripping.pic.jpg)
+
 Github:
 1. [BrainPrep](https://github.com/quqixun/BrainPrep)
     - Good orgnization of code, and great pipline
