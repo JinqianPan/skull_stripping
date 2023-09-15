@@ -22,5 +22,10 @@ Github:
         - For example, my `<path>` is `/Users/123/fsl`
     - For GUI: type `fsl` in terminal.
     - For command line for skull stripping, [website](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide) shows how to use it.
+        - `bet <input> <output> [options]`
 
-- Write code into Python: [BrainPrep skull stripping part](https://github.com/quqixun/BrainPrep/blob/master/src/skull_stripping.py)
+    - Write code into Python: [BrainPrep skull stripping part](https://github.com/quqixun/BrainPrep/blob/master/src/skull_stripping.py)
+
+    - Suggestion: 
+        - Use GUI first
+        - try change the `-f` and `-c` for better result.
