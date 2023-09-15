@@ -14,10 +14,10 @@ Github:
 - Install:
     - Type `python fslinstaller.py` in terminal.
     - This setup file will install a new miniconda, and create a new conda enviroment for fsl. (This might take about 5 mins)
-    - After install, use `conda env list` to find the enviroment. Use `conda activate <path>` to activate the enviroment.
-        - For example, my `<path>` is `/Users/123/fsl`
 
 - Useage: 
+    - After install, use `conda env list` to find the enviroment. Use `conda activate <path>` to activate the enviroment.
+        - For example, my `<path>` is `/Users/123/fsl`
     - For GUI: type `fsl` in terminal.
     - For command line for skull stripping, [website](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide) shows how to use it.
 
